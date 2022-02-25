@@ -8,5 +8,7 @@
 <br />
 
 <div align="center">
-  I work at Hy-Vee as a Software Engineer II working on building full stack applications in Node.js.
+  <h3>I work at Hy-Vee as a Software Engineer II working on building full stack applications in Node.js.</h3>
 </div>
+
+
