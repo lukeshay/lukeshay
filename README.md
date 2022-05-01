@@ -11,6 +11,6 @@
   <h3>I work at Hy-Vee as a Software Engineer II working on building full stack applications in Node.js.</h3>
 </div>
 
-## Issues
+## Current Tasks
 * [\#2 Issue](https://github.com/lukeshay/lukeshay/issues/2): Update README in https://github.com/lukeshay/home-inventory
 * [\#1 Issue](https://github.com/lukeshay/lukeshay/issues/1): Update READMEs in https://github.com/lapidev/lapi
