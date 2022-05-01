@@ -20,7 +20,7 @@ jobs:
           pip3 install --user gh2md
           $HOME/.local/bin/gh2md $GITHUB_REPOSITORY issues.md --no-closed-issues --no-prs
           cat README-tmpl.md > README.md
-          cat issues.md | grep -v '####' | sed 's/#\s//### /g' >> README.md
+          cat issues.md | grep -v '####' | grep -v 'Export of Github issues for' | grep -v '---------' | grep inprogress | sed 's/#\s//* ### /g' >> README.md
         env:
           GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: EndBug/add-and-commit@v9
