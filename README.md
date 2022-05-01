@@ -13,6 +13,6 @@
 </div>
 
 ## Current Tasks
-* [\#3 Issue](https://github.com/lukeshay/lukeshay/issues/3): [TASK] Practice on leetcode
-* [\#2 Issue](https://github.com/lukeshay/lukeshay/issues/2): [TASK] Update README in https://github.com/lukeshay/home-inventory
-* [\#1 Issue](https://github.com/lukeshay/lukeshay/issues/1): [TASK] Update READMEs in https://github.com/lapidev/lapi
+* [\#3 Issue](https://github.com/lukeshay/lukeshay/issues/3): Practice on leetcode
+* [\#2 Issue](https://github.com/lukeshay/lukeshay/issues/2): Update README in https://github.com/lukeshay/home-inventory
+* [\#1 Issue](https://github.com/lukeshay/lukeshay/issues/1): Update READMEs in https://github.com/lapidev/lapi
