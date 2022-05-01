@@ -12,29 +12,7 @@
 </div>
 
 ## Issues
-Export of Github issues for [lukeshay/lukeshay](https://github.com/lukeshay/lukeshay). Generated on 2022.05.01 at 19:38:38.
-
-[\#2 Issue](https://github.com/lukeshay/lukeshay/issues/2) `open`: Update README in https://github.com/lukeshay/home-inventory
-**Labels**: `inprogress`
-
-
-
-
-
-
-
-
--------------------------------------------------------------------------------
-
-[\#1 Issue](https://github.com/lukeshay/lukeshay/issues/1) `open`: Update READMEs in https://github.com/lapidev/lapi
-**Labels**: `inprogress`
-
-
-
-
-
-
-
-
--------------------------------------------------------------------------------
-
+* ### [\#2 Issue](https://github.com/lukeshay/lukeshay/issues/2): Update README in https://github.com/lukeshay/home-inventory
+#### <img src="https://avatars.githubusercontent.com/u/38476395?v=4" width="50">[lukeshay](https://github.com/lukeshay) opened issue at [2022-05-01 19:23](https://github.com/lukeshay/lukeshay/issues/2):
+* ### [\#1 Issue](https://github.com/lukeshay/lukeshay/issues/1): Update READMEs in https://github.com/lapidev/lapi
+#### <img src="https://avatars.githubusercontent.com/u/38476395?v=4" width="50">[lukeshay](https://github.com/lukeshay) opened issue at [2022-05-01 19:22](https://github.com/lukeshay/lukeshay/issues/1):
