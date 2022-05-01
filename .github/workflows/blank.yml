@@ -1,0 +1,26 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+  push:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: |
+          pip3 install --user --upgrade setuptools
+          pip3 install --user gh2md
+          $HOME/.local/bin/gh2md $GITHUB_REPOSITORY issues.md --token ${{ secrets.GITHUB_TOKEN }} --no-closed-issues --no-prs
+          cat README-tmpl.md > README.md
+          cat issues.md | grep -v '####' | sed 's/#\s//### /g' >> README.md
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: README.md
