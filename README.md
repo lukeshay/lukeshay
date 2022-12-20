@@ -8,8 +8,7 @@
 <br />
 
 <div align="center">
-  <h3>I work at Hy-Vee as a Software Engineer II working on building full stack applications in Node.js.</h3>
-  <p>We leverage technologies such as GraphQL, Apollo Federation, GCP GKE, and GCP Pub/Sub to build highly scalable software for fulfilling online grocery orders.</p>
+  <h3>I work at Amazon Web Services as a Software Engineer working on building full stack applications in Node.js.</h3>
 </div>
 
 ## Current Tasks
