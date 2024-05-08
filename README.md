@@ -8,7 +8,7 @@
 <br />
 
 <div align="center">
-  <h3>I work at Amazon Web Services as a Software Engineer working on building full stack applications in Node.js.</h3>
+  <h3>I am a Software Engineer III at Advantage Solutions working on full stack Node.js applications.</h3>
 </div>
 
 ## Current Tasks
